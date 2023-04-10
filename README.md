@@ -1,0 +1,3 @@
+USE AT YOUR OWN RISK! I am not responsible for any accounts or actions taken against you by Discord itself for using this bot. This bot technically violates the Discord ToS and is intended to be used for educational purposes first and foremost.
+
+Discord as a platform has some supported integrations with Spotify for ease of access. It is very easy to share music in servers and chats with other people, however due to the nature of Discord these songs tend to get lost fairly easily in fast moving chats. This self-bot aims to add the ability to scrape specified channels for Spotify music links and to add them to a configured playlist.
